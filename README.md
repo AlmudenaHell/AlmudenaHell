@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlmudenaHell
 - 👀 I’m interested in Physics, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 🌱 I currently work as a Data Scientist
 - 💞️ I’m looking to collaborate on small projects
 
 <!---
